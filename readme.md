@@ -10,7 +10,7 @@ Onthoud de gateway of schrijf het neer.
 Voeg deze tekst vanboven toe:
 
     interface wlan0
-    static ip address=192.168.0.[client_id-Here]
+    static ip address=192.168.0.[Static Ip from Excel File]
     static routers=192.168.0.1
     static domain_name_servers=8.8.8.8.8.4.4
 Sla deze info op en sluit het venster
